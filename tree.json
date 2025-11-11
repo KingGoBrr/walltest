@@ -1,9 +1,22 @@
 {
   "wallpapers": [
     {
-      "name": "test1",
-      "preview": "test1.gif",
-      "tendies": "test1.tendies"
+      "name": "GtaIV BurgerShot",
+      "preview": "BurgerShot.gif",
+      "tendies": "BurgerShot.tendies",
+      "author": "The King"
+    },
+    {
+      "name": "GtaIV ClucknBell",
+      "preview": "ClucknBell.mp4",
+      "tendies": "ClucknBell.tendies",
+      "author": "The King"
+    },
+    {
+      "name": "KawaiiZedong",
+      "preview": "KawaiiZedong.mp4",
+      "tendies": "KawaiiZedong.tendies",
+      "author": "The King"
     }
   ]
 }
