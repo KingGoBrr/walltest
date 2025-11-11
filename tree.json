@@ -4,6 +4,13 @@
       "name": "test1",
       "preview": "test1.gif",
       "tendies": "test1.tendies"
+    },
+    {
+      "name": "test2",
+      "preview": "test2.mp4",
+      "tendies": "test2.tendies"
+      "author": "The King"
+      "size": "1 petabyte" 
     }
   ]
 }
